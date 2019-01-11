@@ -1,3 +1,3 @@
-# firstProject
+# My DataBase Lab project 
 
-A description of this package.
+My first server side swift project for data base lab project.
